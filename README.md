@@ -36,10 +36,10 @@ This Python application allows users to encrypt and decrypt messages using a sec
 
 ## Screenshots
 
-   ## Encryption
+   ## Encryption:
 ![image](https://github.com/Karthikkv1/Encryption_Decryption-Using-Python/assets/154204804/5f9719af-47e7-4ff4-afec-8b8afbfe0943)
 
-   ## Decryption
+   ## Decryption:
 ![image](https://github.com/Karthikkv1/Encryption_Decryption-Using-Python/assets/154204804/59ab0e0f-a6ce-4115-866e-0b122a313a1e)
 
 
